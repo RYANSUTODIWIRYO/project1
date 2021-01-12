@@ -1,3 +1,6 @@
 ryan suryo sutodiwiryo
 first : ryan
+middle : suryo
 last : sutodiwiryo
+
+saya dari bandung
